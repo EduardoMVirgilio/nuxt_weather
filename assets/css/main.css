@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+body {
+  @apply h-screen;
+  @apply flex;
+  @apply items-center;
+  @apply justify-center;
+}
